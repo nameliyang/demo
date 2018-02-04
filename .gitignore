@@ -1,5 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/*.xml
-
+.idea/artifacts/demo_war.xml
+.idea/artifacts/demo_war_exploded.xml
 demo.iml
 .idea/inspectionProfiles/
+/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml
+/.idea/artifacts/demo_war.xml
+.idea/
